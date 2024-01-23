@@ -1,1 +1,1 @@
-# Jokes-chrome-extension-main
+# Jokes-chrome-extension
